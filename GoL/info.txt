@@ -1,0 +1,78 @@
+
+###### Generation: 1 ######
+Total Blocks: 1
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 0
+
+###### Generation: 2 ######
+Total Blocks: 0
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 12
+
+###### Generation: 3 ######
+Total Blocks: 0
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 10
+
+###### Generation: 4 ######
+Total Blocks: 0
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 11
+
+###### Generation: 5 ######
+Total Blocks: 0
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 9
+
+###### Generation: 6 ######
+Total Blocks: 0
+Total Beehive: 0
+Total Loafs: 0
+Total Boats: 0
+Total Tubs: 0
+Total Blinkers: 0
+Total Toads: 0
+Total Beacons: 0
+Total Gliders: 0
+Total Light-weight spaceship: 0
+Total others: 9
